@@ -1,0 +1,5 @@
+@media(max-width:575px){
+    .row{
+        margin: 0 50%;
+    }
+}
